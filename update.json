@@ -1,7 +1,7 @@
 {
   "latestVersion": "0.2.0",
   "releasedAt": "2026-09-30",
-  "downloadUrl": "https://你 的下载页",
+  "downloadUrl": "",
   "announcement": "本次更新修复了若干问题。",
   "changelog": [
     { "version": "0.2.0", "date": "2026-09-30", "changes": ["新增存档槽位", "修复语音不同步"] },
